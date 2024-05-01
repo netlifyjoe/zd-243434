@@ -3,7 +3,7 @@
 client_id = "d5f8ba966d53666f87133b5d2a9b66ce"
 name = "zd-243434"
 handle = "zd-243434"
-application_url = "https://steal-jungle-lectures-ugly.trycloudflare.com"
+application_url = "https://renaissance-tampa-polished-templates.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://steal-jungle-lectures-ugly.trycloudflare.com/auth/callback",
-  "https://steal-jungle-lectures-ugly.trycloudflare.com/auth/shopify/callback",
-  "https://steal-jungle-lectures-ugly.trycloudflare.com/api/auth/callback"
+  "https://renaissance-tampa-polished-templates.trycloudflare.com/auth/callback",
+  "https://renaissance-tampa-polished-templates.trycloudflare.com/auth/shopify/callback",
+  "https://renaissance-tampa-polished-templates.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
