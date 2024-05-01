@@ -20,6 +20,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@netlify/remix-adapter": "^2.3.1",
     "@prisma/client": "5.13.0",
     "@remix-run/dev": "^2.7.1",
     "@remix-run/node": "^2.7.1",
@@ -30,6 +31,7 @@
     "@shopify/shopify-app-remix": "^2.8.2",
     "@shopify/shopify-app-session-storage-prisma": "^4.0.5",
     "isbot": "^5.1.0",
+    "netlify-cli": "^17.23.1",
     "prisma": "5.13.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
