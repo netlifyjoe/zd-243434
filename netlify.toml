@@ -1,4 +1,5 @@
 [functions]
   included_files = [
-    "./node_modules/@shopify/polaris/**/*"
+    "./node_modules/@shopify/polaris/**/*",
+    "./node_modules/@shopify/shopify-app-remix/**/*"
   ]
