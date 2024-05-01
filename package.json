@@ -2,7 +2,7 @@
   "name": "zd-243434",
   "private": true,
   "scripts": {
-    "build": "vite build && vite build --ssr",
+    "build": "remix vite:build",
     "dev": "shopify app dev",
     "config:link": "shopify app config link",
     "generate": "shopify app generate",
